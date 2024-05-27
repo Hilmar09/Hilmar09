@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning a backend web development bootcamp.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hil.cris09@gmail.com
-- 
+- <p align="center">  
+ <a href="https://www.linkedin.com/in/hilmar-cristina-hern%C3%A1ndez-ortiz-b91a57180/https://www.linkedin.com/in/hilmar-cristina-hern%C3%A1ndez-ortiz-b91a57180/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>  
+ <a 
 -
 
 <!---
