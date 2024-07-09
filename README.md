@@ -1,7 +1,4 @@
 ![github-header-image](https://github.com/Hilmar09/Hilmar09/assets/169648153/0c2f09e1-a218-401b-81d2-f1f610228a27)
-
-
-
 # 💫 About Me:
 - 👋 Hi, I’m @Hil Hernandez<br>- 👀 I’m graduate in accounting.<br>- 🌱 I’m currently learning a backend web development bootcamp.<br>- 📫 How to reach me <br> <p align="center">  <br> <a href="https://www.linkedin.com/in/hilmar-cristina-hern%C3%A1ndez-ortiz-b91a57180/https://www.linkedin.com/in/hilmar-cristina-hern%C3%A1ndez-ortiz-b91a57180/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>  <div id="header" align="center"><br>  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJjaGtpb3RhdTgwZm42c2x4bG5tMWZ5MHpnbm9lNHV1Nnk2bDRnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd3ugTL4g37eib6H9k/giphy.gif" width="400"/></div><br>  
 
